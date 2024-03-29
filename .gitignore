@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Sequelize configuration
+config/config.json
+
+# Environment variables
+.env
+
+# Mac OS files
+.DS_Store
+
+# Log files
+*.log
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Render.com configuration
+render.yaml

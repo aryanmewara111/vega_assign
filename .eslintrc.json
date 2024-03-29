@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb-base", // Using the Airbnb base configuration as a starting point
+  "rules": {
+    "no-console": "off", // Allow the use of console for logging
+    "indent": ["error", 2], // Enforce a 2-space indentation
+    "linebreak-style": ["error", "unix"], // Enforce Unix line endings
+    "quotes": ["error", "single"], // Enforce the use of single quotes
+    "semi": ["error", "always"], // Enforce the use of semicolons at the end of statements
+    "comma-dangle": ["error", "always-multiline"] // Enforce trailing commas in multiline object and array literals
+  }
+}
